@@ -3,7 +3,7 @@ name = "speed-test-internet"
 version = "0.1.0"
 description = ""
 authors = [
-    {name = "alexsemyonovv",email = "aleksandrsemeonow@yandex.ru"}
+    {name = "alexsemyonovv",email = "aleksandrsemyonov929@gmail.com"}
 ]
 readme = "README.md"
 requires-python = "^3.12"
