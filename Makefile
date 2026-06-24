@@ -19,7 +19,7 @@ run:
 	poetry run python main.py
 
 docker-build:
-	docker build -t speed-test .
+	docker build -t speed-test-internet .
 
 docker-run:
-	docker run --rm speed-test
+	docker run --rm speed-test-internet

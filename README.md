@@ -1,4 +1,4 @@
-# Speed Test
+# Speed Test Internet
 
 Инструмент для замера скорости интернета. Последовательно выполняет N HTTP-запросов к указанному URL (по умолчанию — тяжёлая картинка), измеряет среднее время ответа и выводит скорость загрузки в МБ/с.
 
@@ -11,8 +11,8 @@
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/sashabaranov/speed-test.git
-cd speed-test
+git clone https://github.com/alexsemyonovv/speed-test-internet.git
+cd speed-test-internet
 
 # Установить зависимости
 make install
